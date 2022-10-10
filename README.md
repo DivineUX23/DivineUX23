@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @DivineUX23
 
-- 👑 I believe Africa will create products that'll solves global problems... "In Africa, by Africans & for the WORLD."
+- 👑 I believe Africa will create products that'll solve global problems... "In Africa, by Africans & for the WORLD."
 
 - 👀 I’m interested in Blockchain developmet and Quantum computing.
 
