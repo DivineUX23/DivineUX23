@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DivineUX23
-- 👀 I’m interested in Block chain developmet.
+- 👀 I’m interested in Blockchain developmet and Quantum computing.
 - 🌱 I’m currently learning Sofware engineering.
-- 💞️ I’m looking to collaborate on projects that solves problems.
+- 💞️ I’m looking to collaborate on projects that solves wicked problems.
 - 📫 How to reach me ...
 
 <!---
