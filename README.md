@@ -4,6 +4,7 @@ WHEN PEOPLE SK ME WHAT I DO, I SAY:
 
 ![image](https://user-images.githubusercontent.com/96517814/194907260-ef1303dc-8018-49e8-be84-6fa6ae0d070b.png)
 
+
 - 👋 Hi, I’m @DivineUX23
 
 - 👑 I believe Africa will create products that'll solves global problems... "In Africa, by Africans & for the WORLD."
