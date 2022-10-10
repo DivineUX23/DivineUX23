@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/96517814/194906365-fdf7350f-ea46-4339-bcf6-e5cac702a4fe.png)
-
 - 👋 Hi, I’m @DivineUX23
 
 - 👑 I believe Africa will create products that'll solves global problems... "In Africa, by Africans & for the WORLD."
