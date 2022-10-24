@@ -17,6 +17,8 @@
 
 - 💞️ I’m looking to collaborate on projects that solves complex problems.
 
+- ⚡ Fun fact I'm a student of Harvard's CS50 and the ALX Software Engineering Programme.
+
 - 🚀GOAL: Devoting my skills to Solving complex problems, and tackling wicked problems.
 
 - 📫 How to reach me @ divineigbinoba23@gmail.com
