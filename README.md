@@ -11,7 +11,7 @@
 
 - 👑 I believe Africa will create products that'll solve global problems... "In Africa, by Africans & for the WORLD."
 
-- 👀 I’m interested in Blockchain developmet and Quantum computing.
+- 👀 I’m interested in AI, Quantum computing, Nuclear energy & Space travel.
 
 - 🌱 I’m currently learning Sofware engineering.
 
