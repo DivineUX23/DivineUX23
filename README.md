@@ -21,7 +21,7 @@
 
 - 🚀GOAL: Devoting my skills to Solving complex problems, and tackling wicked problems.
 
-- 📫 Love to collaborate with me, hit me @ divneigbinoba23@gmail.com or @ https://divines-website.onrender.com/ (My website)
+- 📫 Love to collaborate with me, hit me @ divineigbinoba23@gmail.com or @ https://divines-website.onrender.com/ (My website)
 
 <!---
 DivineUX23/DivineUX23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
