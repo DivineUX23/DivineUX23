@@ -1,4 +1,4 @@
-### WHEN PEOPLE ASK ME WHAT I DO, I SAY:
+### When people ask me what I do, I say:
 
 &nbsp;
 
