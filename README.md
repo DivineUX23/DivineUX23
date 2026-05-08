@@ -7,7 +7,7 @@
 
 
 
-I have an obsession with constraints, precision, and usability
+I am obsessed with constraints, precision, and usability
 
 <!---
 DivineUX23/DivineUX23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
