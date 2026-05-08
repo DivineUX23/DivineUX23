@@ -23,7 +23,7 @@
 &nbsp;
 
 
-I am obsessed with constraints, precision, and usability
+I am obsessed with precision, and usability
 
 
 
