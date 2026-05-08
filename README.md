@@ -7,21 +7,7 @@
 
 
 
-- 👋 Hi, I’m @DivineUX23
-
-- 👑 I believe Africa will create products that'll solve global problems... "In Africa, by Africans & for the WORLD."
-
-- 👀 I’m interested in AI, Quantum computing, Nuclear energy & Space travel.
-
-- 🌱 I’m currently learning Sofware engineering.
-
-- 💞️ I’m looking to collaborate on projects that solves complex problems.
-
-- ⚡ Fun fact I'm a student of Harvard's CS50 and was a student of the ALX Software Engineering Programme.
-
-- 🚀GOAL: Devoting my skills to Solving complex problems, and tackling wicked problems.
-
-- 📫 Love to collaborate with me, hit me @ divineigbinoba23@gmail.com or @ https://divines-website.onrender.com/ (My website)
+I have an obsession with constraints, precision, and usability
 
 <!---
 DivineUX23/DivineUX23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
