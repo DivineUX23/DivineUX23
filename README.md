@@ -9,6 +9,8 @@
 
 I am obsessed with constraints, precision, and usability
 
+site: https://divine-portfolio-rouge.vercel.app/
+email: divineigbinoba23@gmail.com
 <!---
 DivineUX23/DivineUX23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
