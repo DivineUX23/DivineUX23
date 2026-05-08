@@ -2,8 +2,7 @@
 
 &nbsp;
 
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ca3e734d-561c-4eb2-bfc5-2a7e065d276e" />
+<img width="640" height="360" alt="whatever-it-takes-captain-america" src="https://github.com/user-attachments/assets/5a3df2c5-f418-45f9-8e32-15599f71eb46" />
 
 
 &nbsp;
