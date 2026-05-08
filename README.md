@@ -5,10 +5,16 @@
 ![image](https://user-images.githubusercontent.com/96517814/194907260-ef1303dc-8018-49e8-be84-6fa6ae0d070b.png)
 
 
+
+
 "If you do everything, you'll win" - Lyndon B. Johnson (LBJ)
 
 
+
+
 I am obsessed with constraints, precision, and usability
+
+
 
 
 site: https://divine-portfolio-rouge.vercel.app/
