@@ -23,8 +23,7 @@
 &nbsp;
 
 
-I am obsessed with precision, and usability.
-
+Obsessed with how things work under the hood and fanatical about usability.
 
 
 &nbsp;
