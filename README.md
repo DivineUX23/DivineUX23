@@ -23,7 +23,7 @@
 &nbsp;
 
 
-Obsessed with how things work under the hood and fanatical about usability.
+I am obsessed with how things work under the hood and fanatical about usability.
 
 
 &nbsp;
