@@ -30,16 +30,9 @@ I am obsessed with how things work under the hood and fanatical about usability.
 &nbsp;
 
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://vercel.app" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://vercel.app" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+![Your GitHub Stats](https://vercel.app)
+![Your Most Used Languages](https://vercel.app)
+
 
 
 
