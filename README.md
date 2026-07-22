@@ -30,6 +30,23 @@ I am obsessed with how things work under the hood and fanatical about usability.
 &nbsp;
 
 
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://vercel.app" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://vercel.app" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
+
+&nbsp;
+&nbsp;
+
+
 portfolio: https://divine-portfolio-rouge.vercel.app/
 
 email: divineigbinoba23@gmail.com
