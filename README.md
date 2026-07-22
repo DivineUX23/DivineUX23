@@ -30,10 +30,8 @@ I am obsessed with how things work under the hood and fanatical about usability.
 &nbsp;
 ## 📊 GitHub Stats
 
-![Divine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivineUX23&show_icons=true&theme=dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DivineUX23&layout=compact&theme=dark)
-
+<image-card alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DivineUX23&show_icons=true&theme=dark" ></image-card>
+<image-card alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineUX23&layout=compact&theme=dark" ></image-card>
 
 &nbsp;
 &nbsp;
