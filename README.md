@@ -30,10 +30,10 @@ I am obsessed with how things work under the hood and fanatical about usability.
 &nbsp;
 
 
-![Your GitHub Stats](https://vercel.app)
-![Your Most Used Languages](https://vercel.app)
-
-
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" height="200" />
+  <img src="https://vercel.app" alt="Most Used Languages" height="200" />
+</p>
 
 
 &nbsp;
